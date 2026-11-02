@@ -1,0 +1,6 @@
+.git
+.next
+node_modules
+k8s
+*.md
+package-lock-working-old copy.json
